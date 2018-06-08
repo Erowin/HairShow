@@ -2,8 +2,8 @@
 	"state": 200,
 	"categary": [{
 		"catName": "girl",
-		"thumburl":"https://raw.githubusercontent.com/Erowin/HairShow/master/xiaohair/woman/",
-		"imageurl":"https://raw.githubusercontent.com/Erowin/HairShow/master/hair/woman/",
+		"thumburl":"https://raw.githubusercontent.com/Erowin/HairShow/master/xiaohair/woman1.3/",
+		"imageurl":"https://raw.githubusercontent.com/Erowin/HairShow/master/hair/woman1.3/",
 		"vipCount":"29",
 		"count":"43",
 		"imagearr":["man_1","man_2","man_3","man_4","man_5","man_2","man_2","man_2","man_2","man_2","man_2","man_2","man_2","man_2","man_2","man_2","man_2","man_2"
@@ -11,8 +11,8 @@
 		,"man_2","man_2","man_2","man_2","man_2","man_2","man_2","man_2","man_2","man_2","man_2","man_2"]
 	},{
 		"catName": "boy",
-		"thumburl":"https://raw.githubusercontent.com/Erowin/HairShow/master/xiaohair/man/",
-		"imageurl":"https://raw.githubusercontent.com/Erowin/HairShow/master/hair/man/",
+		"thumburl":"https://raw.githubusercontent.com/Erowin/HairShow/master/xiaohair/man1.3/",
+		"imageurl":"https://raw.githubusercontent.com/Erowin/HairShow/master/hair/man1.3/",
 		"vipCount":"30",
 		"count":"40",
 		"imagearr":["a1","a2","a3","a4","a5","a6","a7","a8","a9","a10","a11","a12","a13","a14","a15","a16","a17"
