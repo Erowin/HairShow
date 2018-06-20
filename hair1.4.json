@@ -1,0 +1,16 @@
+{
+	"state": 200,
+	"categary": [{
+		"catName": "girl",
+		"thumburl":"https://raw.githubusercontent.com/Erowin/HairShow/master/xiaohair/woman1.3/",
+		"imageurl":"https://raw.githubusercontent.com/Erowin/HairShow/master/hair/woman1.3/",
+		"vipCount":"29",
+		"count":"62",
+	},{
+		"catName": "boy",
+		"thumburl":"https://raw.githubusercontent.com/Erowin/HairShow/master/xiaohair/man1.3/",
+		"imageurl":"https://raw.githubusercontent.com/Erowin/HairShow/master/hair/man1.3/",
+		"vipCount":"30",
+		"count":"40",
+	}]
+}
