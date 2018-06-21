@@ -2,14 +2,14 @@
 	"state": 200,
 	"categary": [{
 		"catName": "girl",
-		"thumburl":"https://raw.githubusercontent.com/Erowin/HairShow/master/xiaohair/woman1.3/",
-		"imageurl":"https://raw.githubusercontent.com/Erowin/HairShow/master/hair/woman1.3/",
+		"thumburl":"https://raw.githubusercontent.com/Erowin/HairShow/master/xiaohair/woman1.4/",
+		"imageurl":"https://raw.githubusercontent.com/Erowin/HairShow/master/hair/woman1.4/",
 		"vipCount":"29",
 		"count":"73",
 	},{
 		"catName": "boy",
-		"thumburl":"https://raw.githubusercontent.com/Erowin/HairShow/master/xiaohair/man1.3/",
-		"imageurl":"https://raw.githubusercontent.com/Erowin/HairShow/master/hair/man1.3/",
+		"thumburl":"https://raw.githubusercontent.com/Erowin/HairShow/master/xiaohair/man1.4/",
+		"imageurl":"https://raw.githubusercontent.com/Erowin/HairShow/master/hair/man1.4/",
 		"vipCount":"30",
 		"count":"51",
 	}]
