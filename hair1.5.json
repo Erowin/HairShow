@@ -427,6 +427,7 @@
 				"vipStatus" : true,
 		        "adStatus" : false,
 		        "adStatusV" :false,
+		        "catStr":"3",
 				},{"thumbUrl":"https://raw.githubusercontent.com/Erowin/HairShow/master/xiaohair1.4/woman_3/woman_4.png",
 				"hiarUrl" : "https://raw.githubusercontent.com/Erowin/HairShow/master/hair1.4/woman_3/woman_4.png",
 				"colorStr" : "",
