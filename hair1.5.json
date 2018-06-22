@@ -5,6 +5,8 @@
 		"content":[
 		    {
 		     	"type":"潮流",
+		     	"Ad" : "32",
+		     	"noAd" : "29",
 		     	"contentType":[
 		     	{"thumbUrl":"https://raw.githubusercontent.com/Erowin/HairShow/master/xiaohair1.4/woman_1/woman_1.png",
 				"hiarUrl" : "https://raw.githubusercontent.com/Erowin/HairShow/master/hair1.4/woman_1/woman_1.png",
@@ -213,6 +215,8 @@
 				]
 		    },  {
 		     	"type":"新娘",
+		     	"Ad" : "11",
+		     	"noAd" : "10",
 		     	"contentType":[
 		     	{"thumbUrl":"https://raw.githubusercontent.com/Erowin/HairShow/master/xiaohair1.4/woman_2/woman_1.png",
 				"hiarUrl" : "https://raw.githubusercontent.com/Erowin/HairShow/master/hair1.4/woman_2/woman_1.png",
@@ -288,6 +292,8 @@
 				]
 		    },  {
 		     	"type":"创意",
+		     	"Ad" : "19",
+		     	"noAd" : "17",
 		     	"contentType":[
 		     	{"thumbUrl":"https://raw.githubusercontent.com/Erowin/HairShow/master/xiaohair1.4/woman_3/woman_1.png",
 				"hiarUrl" : "https://raw.githubusercontent.com/Erowin/HairShow/master/hair1.4/woman_3/woman_1.png",
@@ -411,6 +417,8 @@
 				]
 		    },  {
 		     	"type":"最新",
+		     	"Ad" : "6",
+		     	"noAd" : "6",
 		     	"contentType":[
 		     	{"thumbUrl":"https://raw.githubusercontent.com/Erowin/HairShow/master/xiaohair1.4/woman_4/woman_1.png",
 				"hiarUrl" : "https://raw.githubusercontent.com/Erowin/HairShow/master/hair1.4/woman_4/woman_1.png",
@@ -463,6 +471,8 @@
 		"catName": "boy",
 		"content":[{
 		     	"type":"潮流",
+		     	"Ad" : "38",
+		     	"noAd" : "34",
 		     	"contentType":[
 		     	{"thumbUrl":"https://raw.githubusercontent.com/Erowin/HairShow/master/xiaohair1.4/man_1/man_1.png",
 				"hiarUrl" : "https://raw.githubusercontent.com/Erowin/HairShow/master/hair1.4/man_1/man_1.png",
@@ -706,6 +716,8 @@
 				]
 		    },{
 		     	"type":"最新",
+		     	"Ad" : "6",
+		     	"noAd" : "6",
 		     	"contentType":[
 		     	{"thumbUrl":"https://raw.githubusercontent.com/Erowin/HairShow/master/xiaohair1.4/man_2/man_1.png",
 				"hiarUrl" : "https://raw.githubusercontent.com/Erowin/HairShow/master/hair1.4/man_2/man_1.png",
