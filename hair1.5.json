@@ -5,8 +5,8 @@
 		"content":[
 		    {
 		     	"type":"潮流",
-		     	"Ad" : "34",
-		     	"noAd" : "29",
+		     	"Ad" : "37",
+		     	"noAd" : "32",
 		     	"contentType":[
 		     	{"thumbUrl":"https://raw.githubusercontent.com/Erowin/HairShow/master/xiaohair1.4/woman_1/woman_1.png",
 				"hiarUrl" : "https://raw.githubusercontent.com/Erowin/HairShow/master/hair1.4/woman_1/woman_1.png",
@@ -341,8 +341,8 @@
 				]
 		    },  {
 		     	"type":"新娘",
-		     	"Ad" : "11",
-		     	"noAd" : "10",
+		     	"Ad" : "14",
+		     	"noAd" : "13",
 		     	"contentType":[
 		     	{"thumbUrl":"https://raw.githubusercontent.com/Erowin/HairShow/master/xiaohair1.4/woman_2/woman_1.png",
 				"hiarUrl" : "https://raw.githubusercontent.com/Erowin/HairShow/master/hair1.4/woman_2/woman_1.png",
@@ -640,8 +640,8 @@
 		"catName": "boy",
 		"content":[{
 		     	"type":"潮流",
-		     	"Ad" : "39",
-		     	"noAd" : "34",
+		     	"Ad" : "42",
+		     	"noAd" : "37",
 		     	"contentType":[
 		     	{"thumbUrl":"https://raw.githubusercontent.com/Erowin/HairShow/master/xiaohair1.4/man_1/man_1.png",
 				"hiarUrl" : "https://raw.githubusercontent.com/Erowin/HairShow/master/hair1.4/man_1/man_1.png",
